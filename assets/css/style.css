@@ -1,3 +1,12 @@
 body {
-    background-color: red;
+    background-color: #d8d5d5;
+    color: #242323;
+}
+
+.hero-image {
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    background-color: rgb(151, 24, 2);
+    margin: auto;
 }

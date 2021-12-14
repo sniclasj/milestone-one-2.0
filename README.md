@@ -17,5 +17,8 @@ I then created the assets, css and images folder before creating the style.css f
 
 At this point, I decided to test my style.css file and came across my first issue. It didn't seem as if the styles applied within style.css were being applied to the web-page.
 
-To resolve this, I...
+To resolve this, I inspected the code and realised that the issue was due to a typo in the header where I had typed 'stylsheet' instead of 'stylesheet' PUT IN SCREENSHOT OF THIS.
 
+Typo Error Screenshot
+
+Once I validated that the style sheet was working, I utilised the Bootstrap Grid to create some responsive columns within a container.
