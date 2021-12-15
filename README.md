@@ -25,8 +25,11 @@ Typo Error Screenshot
 Once I validated that the style sheet was working, I utilised the Bootstrap Grid to create four responsive columns within a container. I gave the container a class of 'section-one'.
 
 ## Step 2
-I then created another container and placed this above the 'section-one' container to create a navbar for the website. The navbar consisted of a branded logo to the left of the page and three links to the right of the page, namely, Home, Pricing and Join Us.
+I then created another container and placed this above the 'section-one' container to create a navbar for the website with an id pf header. The navbar consisted of a branded logo to the left of the page and three links to the right of the page, namely, Home, Pricing and Join Us.
 
 ## Step 3
-I wanted to place a 'hero image' between the navbar and section-one so I utilised and modified the following code (https://stackoverflow.com/questions/12393382/positioning-text-relative-to-an-image-when-the-image-size-changes) to ensure the content overlayed on the image would re-size relative to the screensize/viewport.
+I wanted to place a 'hero image' between the navbar and section-one so I utilised and modified the following code (https://stackoverflow.com/questions/12393382/positioning-text-relative-to-an-image-when-the-image-size-changes) to ensure the content overlayed on the image would re-size relative to the screensize/viewport. STRUGGLING TO GET THIS TO WORK!
 Image from (https://simplifaster.com/articles/weightlifting-progressions-tall-long-limbed-athletes/).
+
+## Step 4
+I then created another bootstrap container which contained three responsive columns with an id of 'footer'.

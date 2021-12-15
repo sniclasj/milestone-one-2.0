@@ -60,7 +60,7 @@ body {
 }
 
 #nav li a:hover {
-    color: #575454;
+    color: black;
     background-color: rgb(255, 196, 0);
 }
 
@@ -68,18 +68,22 @@ body {
     background-color: black;
 }
 
-#footer-list li {
-    list-style-type: none;
-    float: left;
-    margin-right:400px;
-}
-
-#footer-list li a {
+#socials a {
+    font-size: 30px;
     color: rgb(255, 196, 0);
-    text-decoration: none;
+    letter-spacing: 10px;
 }
 
-#footer-list li a:hover {
-    color: #575454;
+#contact p,
+#copyright p {
+    font-size: 15px;
+    color: rgb(255, 196, 0);
+    margin-top: 10px;
+}
+
+#socials a:hover {
+    font-size: 30px;
+    color: black;
     background-color: rgb(255, 196, 0);
+    letter-spacing: 10px;
 }
