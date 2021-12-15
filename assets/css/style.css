@@ -1,12 +1,64 @@
+@import url('https://fonts.googleapis.com/css2?family=Arvo&display=swap');
+
 body {
-    background-color: #d8d5d5;
-    color: #242323;
+    font-family: "Arvo", sans-serif;
+    background-color: #575454;
+    color: #fafafa;
+    margin: 0;
+}
+
+.header {
+    margin-bottom: 25px;
+}
+
+.section-one {
+    margin-top: 25px;
 }
 
 .hero-image {
-    height: 50px;
-    width: 50px;
-    border-radius: 50%;
-    background-color: rgb(151, 24, 2);
+    background: url("/assets/images/Olympic-Lifts.jpg") center center;
+    min-height: 500px;
+    width: 100%;
     margin: auto;
+    position: relative;
+    overflow: hidden;
+}
+
+.hero-text {
+    position: absolute;
+}
+
+.overlay {
+    width: 300px;
+    height: 100px;
+    background-color: rgba(255, 196, 0, 0.5);
+    color: #fafafa;
+    position: absolute;
+    top: 350px;
+    left: 900px
+}
+
+#brand, #nav {
+    text-transform: uppercase;
+}
+
+#brand a {
+    color: rgb(255, 196, 0);
+    text-decoration: none;
+}
+
+#nav li {
+    list-style-type: none;
+    float: right;
+    margin-right: 15px;
+}
+
+#nav li a {
+    color: rgb(255, 196, 0);
+    text-decoration: none;
+}
+
+#nav li a:hover {
+    color: #575454;
+    background-color: rgb(255, 196, 0);
 }
