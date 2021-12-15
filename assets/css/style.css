@@ -12,10 +12,6 @@ body {
     background-color: black;
 }
 
-.section-one {
-    margin-top: 25px;
-}
-
 .hero-image {
     background: url("/assets/images/Olympic-Lifts.jpg") center center no-repeat;
     min-height: 500px;
@@ -86,4 +82,16 @@ body {
     color: black;
     background-color: rgb(255, 196, 0);
     letter-spacing: 10px;
+}
+
+#xxx {
+    background-color: rgba(255, 196, 0, 0.75);
+}
+
+#yyy {
+    background-color: rgba(255, 196, 0, 0.5);
+}
+
+#zzz {
+    background-color: rgba(255, 196, 0, 0.25);
 }
