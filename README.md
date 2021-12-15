@@ -22,7 +22,7 @@ To resolve this, I inspected the code and realised that the issue was due to a t
 
 Typo Error Screenshot
 
-Once I validated that the style sheet was working, I utilised the Bootstrap Grid to create four responsive columns within a container. I gave the container a class of 'section-one'.
+Once I validated that the style sheet was working, I utilised the Bootstrap Grid to create three responsive columns within a container. I gave the container a class of 'section-one'.
 
 ## Step 2
 I then created another container and placed this above the 'section-one' container to create a navbar for the website with an id pf header. The navbar consisted of a branded logo to the left of the page and three links to the right of the page, namely, Home, Pricing and Join Us.
@@ -33,3 +33,6 @@ Image from (https://simplifaster.com/articles/weightlifting-progressions-tall-lo
 
 ## Step 4
 I then created another bootstrap container which contained three responsive columns with an id of 'footer'.
+
+## Step 5
+I replicated the container containing three columns layout utilised in index.html for pricing.html however the background colour for each column has a different level of transparency to highlight the different pricing tiers.
