@@ -9,6 +9,7 @@ body {
 
 .header {
     margin-bottom: 25px;
+    background-color: black;
 }
 
 .section-one {
@@ -16,7 +17,7 @@ body {
 }
 
 .hero-image {
-    background: url("/assets/images/Olympic-Lifts.jpg") center center;
+    background: url("/assets/images/Olympic-Lifts.jpg") center center no-repeat;
     min-height: 500px;
     width: 100%;
     margin: auto;
@@ -42,7 +43,7 @@ body {
     text-transform: uppercase;
 }
 
-#brand a {
+#brand a{
     color: rgb(255, 196, 0);
     text-decoration: none;
 }
@@ -59,6 +60,26 @@ body {
 }
 
 #nav li a:hover {
+    color: #575454;
+    background-color: rgb(255, 196, 0);
+}
+
+#footer {
+    background-color: black;
+}
+
+#footer-list li {
+    list-style-type: none;
+    float: left;
+    margin-right:400px;
+}
+
+#footer-list li a {
+    color: rgb(255, 196, 0);
+    text-decoration: none;
+}
+
+#footer-list li a:hover {
     color: #575454;
     background-color: rgb(255, 196, 0);
 }
