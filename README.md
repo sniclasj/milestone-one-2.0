@@ -36,3 +36,7 @@ I then created another bootstrap container which contained three responsive colu
 
 ## Step 5
 I replicated the container containing three columns layout utilised in index.html for pricing.html however the background colour for each column has a different level of transparency to highlight the different pricing tiers.
+
+## Step 6
+I created a container on the 'join-us' page and placed a form within a Bootstrap col-12. The form has four required inputs (one of which is a dropdown) and two buttons (submit and restet).
+I utilised and modified the following code to create a placeholder for my dropdown list (https://stackoverflow.com/questions/5805059/how-do-i-make-a-placeholder-for-a-select-box) and I have populated the 'action' section of my form with the following url (https://formdump.codeinstitute.net).
