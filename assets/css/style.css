@@ -13,7 +13,7 @@ body {
 }
 
 .hero-image {
-    background: url("/assets/images/Olympic-Lifts.jpg") center center no-repeat;
+    background: url("../images/olympic-lifts.jpg") center center no-repeat;
     min-height: 500px;
     width: 100%;
     margin: auto;
