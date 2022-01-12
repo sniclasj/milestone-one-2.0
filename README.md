@@ -173,6 +173,7 @@ You can break the credits section up into Content and Media, depending on what y
 
 - The photos used on the home and sign up page are from This Open Source site
 - The images used for the gallery page were taken from this other open source site
+- The video used on the Join Us page is from (https://www.pexels.com/video/silhouette-of-friends-doing-high-five-8692158/)
 
 
 Congratulations on completing your Readme, you have made another big stride in the direction of being a developer!
