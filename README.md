@@ -41,12 +41,13 @@ I replicated the container containing three columns layout utilised in index.htm
 I created a container on the 'join-us' page and placed a form within a Bootstrap col-12. The form has four required inputs (one of which is a dropdown) and two buttons (submit and restet).
 I utilised and modified the following code to create a placeholder for my dropdown list (https://stackoverflow.com/questions/5805059/how-do-i-make-a-placeholder-for-a-select-box) and I have populated the 'action' section of my form with the following url (https://formdump.codeinstitute.net).
 
-# Love Running
+# SJ Fitness
 
 In this section, you will include one or two paragraphs providing an overview of your project. Essentially, this part is your sales pitch. At this stage, you should have a name for your project so use it! Don’t introduce the project as a Portfolio project for the diploma. In this section, describe what the project hopes to accomplish, who it is intended to target and how it will be useful to the target audience. 
 
-For example; Love Running is a site that hopes to help keep people motivated to meet up for runs on a regular basis in Dublin, Ireland. The site will be targeted toward runners who are looking for a way to socialise and keep themselves fit. Love Running will be useful for runners to see exactly when and where they should be to join the running club. 
+SJ Fitness is a website for a personal trainer owned gym located in West Wales. The site is aimed at fitness enthusiasts of all levels. The website will be used to attract new members to the gym and to enable the gym to receive new member enquiries at the client's desired tier/price point.
 
+MAKE THIS FOR MY WEBSITE
 ![Responsice Mockup](https://github.com/lucyrush/readme-template/blob/master/media/love_running_mockup.png)
 
 ## Features 
@@ -57,27 +58,37 @@ In this section, you should go over the different parts of your project, and des
 
 - __Navigation Bar__
 
-  - Featured on all three pages, the full responsive navigation bar includes links to the Logo, Home page, Gallery and Sign Up page and is identical in each page to allow for easy navigation.
-  - This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button. 
+  - This features on all pages and includes links to the gym's branding, Home page, Pricing page and Join Us page. the full responsive navigation bar includes links to the Logo, Home page, Gallery and Sign Up page. the navigation abr is the same on each page to facilitate easy navigation. The navigation bar is responsive across numerous device sizes.
+  - The navigation bar will allow users to navigate the site on all devices without having to use the 'back' button. 
 
+SCREENSHOT OF NAVBAR
 ![Nav Bar](https://github.com/lucyrush/readme-template/blob/master/media/love_running_nav.png)
 
-- __The landing page image__
+- __The Landing Page__
 
+  - PUT IN MY OWN ONE.
   - The landing includes a photograph with text overlay to allow the user to see exactly which location this site would be applicable to. 
   - This section introduces the user to Love Running with an eye catching animation to grab their attention
 
 ![Landing Page](https://github.com/lucyrush/readme-template/blob/master/media/love_running_landing.png)
 
-- __Club Ethos Section__
+- __The 'SJ Fitness Approach' Section__
 
+  - PUT IN OWN ONE.
   - The club ethos section will allow the user to see the benefits of joining the Love Running meetups, as well as the benefits of running overall. 
   - This user will see the value of signing up for the Love Running meetups. This should encourage the user to consider running as their form of exercise. 
 
 ![Club Ethos](https://github.com/lucyrush/readme-template/blob/master/media/love_running_ethos.png)
 
-- __Meetup Times section__
+- __The 'How Can We Help You? Section__
 
+  - PUT IN OWN ONE.
+  - This section will allow the user to see exactly when the meetups will happen, where they will be located and how long the run will be in kilometers. 
+  - This section will be updated as these times change to keep the user up to date.
+
+  - __The 'Get Started!' Section__
+
+  - PUT IN OWN ONE.
   - This section will allow the user to see exactly when the meetups will happen, where they will be located and how long the run will be in kilometers. 
   - This section will be updated as these times change to keep the user up to date. 
 
