@@ -96,19 +96,20 @@ SCREENSHOT OF NAVBAR
 
 - __The Footer__ 
 
-  - The footer section includes links to the relevant social media sites for Love Running. The links will open to a new tab to allow easy navigation for the user. 
-  - The footer is valuable to the user as it encourages them to keep connected via social media
+  - The footer section includes links to social media sites (facebook, twitter, instagram), and an email address to help potential clients get in contact with SJ Fitness. The social media links open to a new tab for easier navigation. 
+  - The footer is valuable for the gym business as it allows prospective clients to follow them on social media and to get in touch about new memberships. It is also valuable for the user as it directs them to the social media sites and gives them an email point of contact to ask any questions.
 
+PUT IN OWN FOOTER SCREENSHOT
 ![Footer](https://github.com/lucyrush/readme-template/blob/master/media/love_running_footer.png)
 
-- __Gallery__
+- __The Pricing Page__
 
   - The gallery will provide the user with supporting images to see what the meet ups look like. 
   - This section is valuable to the user as they will be able to easily identify the types of events the organisation puts together. 
 
 ![Gallery](https://github.com/lucyrush/readme-template/blob/master/media/love_running_gallery.png)
 
-- __The Sign Up Page__
+- __The Join Us Page__
 
   - This page will allow the user to get signed up to Love Running to start their running journey with the community. The user will be able specify if they would like to take part in road, trail or both types of running. The user will be asked to submit their full name and email address. 
 
@@ -120,7 +121,7 @@ In addition, you may also use this section to discuss plans for additional featu
 
 ### Features Left to Implement
 
-- Another feature idea
+- A future feature to implement would be the embedding of fitness related videos which loop on the pages.
 
 ## Testing 
 
@@ -174,21 +175,4 @@ You can break the credits section up into Content and Media, depending on what y
 - The images used for the gallery page were taken from this other open source site
 
 
-Congratulations on completing your Readme, you have made another big stride in the direction of being a developer! 
-
-## Other General Project Advice
-
-Below you will find a couple of extra tips that may be helpful when completing your project. Remember that each of these projects will become part of your final portfolio so it’s important to allow enough time to showcase your best work! 
-
-- One of the most basic elements of keeping a healthy commit history is with the commit message. When getting started with your project, read through [this article](https://chris.beams.io/posts/git-commit/) by Chris Beams on How to Write  a Git Commit Message 
-  - Make sure to keep the messages in the imperative mood 
-
-- When naming the files in your project directory, make sure to consider meaningful naming of files, point to specific names and sections of content.
-  - For example, instead of naming an image used ‘image1.png’ consider naming it ‘landing_page_img.png’. This will ensure that there are clear file paths kept. 
-
-- Do some extra research on good and bad coding practices, there are a handful of useful articles to read, consider reviewing the following list when getting started:
-  - [Writing Your Best Code](https://learn.shayhowe.com/html-css/writing-your-best-code/)
-  - [HTML & CSS Coding Best Practices](https://medium.com/@inceptiondj.info/html-css-coding-best-practice-fadb9870a00f)
-  - [Google HTML/CSS Style Guide](https://google.github.io/styleguide/htmlcssguide.html#General)
-
-Getting started with your Portfolio Projects can be daunting, planning your project can make it a lot easier to tackle, take small steps to reach the final outcome and enjoy the process! 
+Congratulations on completing your Readme, you have made another big stride in the direction of being a developer!
