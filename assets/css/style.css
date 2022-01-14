@@ -1,5 +1,7 @@
+/*Import the desired Arvo font from Google Fonts*/
 @import url('https://fonts.googleapis.com/css2?family=Arvo&display=swap');
 
+/*Sit wide styles*/
 body {
     font-family: "Arvo", sans-serif;
     background-color: #575454;
@@ -10,29 +12,6 @@ body {
 .header {
     margin-bottom: 20px;
     background-color: black;
-}
-
-.hero-image {
-    background: url("../images/olympic-lifts.jpg") center center no-repeat;
-    min-height: 500px;
-    width: 100%;
-    margin: auto;
-    position: relative;
-    overflow: hidden;
-}
-
-.hero-text {
-    position: absolute;
-}
-
-.overlay {
-    width: 300px;
-    height: 100px;
-    background-color: rgba(255, 196, 0, 0.5);
-    color: #fafafa;
-    position: absolute;
-    top: 350px;
-    left: 900px
 }
 
 #brand, #nav {
@@ -84,6 +63,31 @@ body {
     letter-spacing: 10px;
 }
 
+/*Style for the hero image and overlayed text on the landing/home page*/
+.hero-image {
+    background: url("../images/olympic-lifts.jpg") center center no-repeat;
+    min-height: 500px;
+    width: 100%;
+    margin: auto;
+    position: relative;
+    overflow: hidden;
+}
+
+.hero-text {
+    position: absolute;
+}
+
+.overlay {
+    width: 300px;
+    height: 100px;
+    background-color: rgba(255, 196, 0, 0.5);
+    color: #fafafa;
+    position: absolute;
+    top: 350px;
+    left: 900px
+}
+
+/*Pricing Tier Styles*/
 #bolt {
     background-color: rgba(255, 196, 0, 0.75);
 }
@@ -96,6 +100,7 @@ body {
     background-color: rgba(255, 196, 0, 0.25);
 }
 
+/*Form Style*/
 form {
     background-color: rgba(255, 196, 0, 0.25);
     margin-bottom: 20px;
