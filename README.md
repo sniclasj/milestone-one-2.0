@@ -43,8 +43,6 @@ I utilised and modified the following code to create a placeholder for my dropdo
 
 # SJ Fitness
 
-In this section, you will include one or two paragraphs providing an overview of your project. Essentially, this part is your sales pitch. At this stage, you should have a name for your project so use it! Don’t introduce the project as a Portfolio project for the diploma. In this section, describe what the project hopes to accomplish, who it is intended to target and how it will be useful to the target audience. 
-
 SJ Fitness is a website for a personal trainer owned gym located in West Wales. The site is aimed at fitness enthusiasts of all levels. The website will be used to attract new members to the gym and to enable the gym to receive new member enquiries at the client's desired tier/price point.
 
 MAKE THIS FOR MY WEBSITE
@@ -58,70 +56,63 @@ In this section, you should go over the different parts of your project, and des
 
 - __Navigation Bar__
 
-  - This features on all pages and includes links to the gym's branding, Home page, Pricing page and Join Us page. the full responsive navigation bar includes links to the Logo, Home page, Gallery and Sign Up page. the navigation abr is the same on each page to facilitate easy navigation. The navigation bar is responsive across numerous device sizes.
+  - This features on all pages and includes links to the gym's branding, Home page, Pricing page and Join Us page. The navigation bar is fully responsive and  is the same on each page to facilitate easy navigation.
   - The navigation bar will allow users to navigate the site on all devices without having to use the 'back' button. 
 
 SCREENSHOT OF NAVBAR
 ![Nav Bar](https://github.com/lucyrush/readme-template/blob/master/media/love_running_nav.png)
 
-- __The Landing Page__
+- __The Home/Landing Page__
 
-  - PUT IN MY OWN ONE.
-  - The landing includes a photograph with text overlay to allow the user to see exactly which location this site would be applicable to. 
-  - This section introduces the user to Love Running with an eye catching animation to grab their attention
+  - The home/landing page contains a photo a photograph with the SJ Fitness motto of 'Better Starts Today' overlayed on it. This motto is present to convey that the aim of the gym is to improve their fitness and engcourages the user to start their journey as soon as possible. 
 
 ![Landing Page](https://github.com/lucyrush/readme-template/blob/master/media/love_running_landing.png)
 
 - __The 'SJ Fitness Approach' Section__
 
-  - PUT IN OWN ONE.
-  - The club ethos section will allow the user to see the benefits of joining the Love Running meetups, as well as the benefits of running overall. 
-  - This user will see the value of signing up for the Love Running meetups. This should encourage the user to consider running as their form of exercise. 
+  - The SJ Fitness Approach section describes to the user how the gym will cater to their individual needs. It highllights that the gym does not a 'one size fits all' approach to health and fitness and that the gym wants to ensure everyone is treated as an individual. This is expanded upton in the adjacent 'How Can We Help You?' section.
 
-![Club Ethos](https://github.com/lucyrush/readme-template/blob/master/media/love_running_ethos.png)
+![SJ Fitness Approach](https://github.com/lucyrush/readme-template/blob/master/media/love_running_ethos.png)
 
 - __The 'How Can We Help You? Section__
 
-  - PUT IN OWN ONE.
-  - This section will allow the user to see exactly when the meetups will happen, where they will be located and how long the run will be in kilometers. 
-  - This section will be updated as these times change to keep the user up to date.
+  - This section also mentions numerous goals that clients may have in order to appeal to as wide an audience as possible. It leads on from the 'SJ Fitness Approach' section to highlight to clients and prospective clients that this is a gym for all abilities and all goals as opposed to only focussing on one type of training.
 
-  - __The 'Get Started!' Section__
+  ![How Can We Help You?](https://github.com/lucyrush/readme-template/blob/master/media/love_running_ethos.png)
 
-  - PUT IN OWN ONE.
-  - This section will allow the user to see exactly when the meetups will happen, where they will be located and how long the run will be in kilometers. 
-  - This section will be updated as these times change to keep the user up to date. 
+  - __The 'Find Us!' Section__
 
-![Meetup Times](https://github.com/lucyrush/readme-template/blob/master/media/love_running_times.png)
+  - This section is simply a Google Maps snapshot to assist clients in finding the gym.
+
+![Find Us](https://github.com/lucyrush/readme-template/blob/master/media/love_running_times.png)
 
 - __The Footer__ 
 
   - The footer section includes links to social media sites (facebook, twitter, instagram), and an email address to help potential clients get in contact with SJ Fitness. The social media links open to a new tab for easier navigation. 
-  - The footer is valuable for the gym business as it allows prospective clients to follow them on social media and to get in touch about new memberships. It is also valuable for the user as it directs them to the social media sites and gives them an email point of contact to ask any questions.
+  - The footer is valuable for the gym business as it allows prospective clients to follow them on social media and to get in touch about new memberships. It is also valuable for the user as it directs them to the social media sites and gives them an email point of contact to ask any questions prior to signing up via the 'Join Us' page.
 
 PUT IN OWN FOOTER SCREENSHOT
 ![Footer](https://github.com/lucyrush/readme-template/blob/master/media/love_running_footer.png)
 
 - __The Pricing Page__
 
-  - The gallery will provide the user with supporting images to see what the meet ups look like. 
-  - This section is valuable to the user as they will be able to easily identify the types of events the organisation puts together. 
+  - The pricing page has a brief explanation at the top of the page below the navigation bar which also contains a hyperlink to the Join Us page so that the user can immediately navigate to sign up.
+  - The pricing page is then split into three columns which represents the different membership tiers and their respecting monthly cost. The information on different tiers is concisely summarised via the use of bullet points so that the user is not overloaded with too much information regarding the membership types.
+  - The membership tiers and bullet points are positioned in such a way that it is clear to see what is omitted as the pricing tier decreases which makes comparison of membership tiers easier for the user. This is also a strategy to increase the gym's revenue by convincing prospective clients to sign up for the top tier as they can see that the top ties does provide more for their money when comparing membership options.
 
-![Gallery](https://github.com/lucyrush/readme-template/blob/master/media/love_running_gallery.png)
+![Pricing](https://github.com/lucyrush/readme-template/blob/master/media/love_running_gallery.png)
 
 - __The Join Us Page__
 
-  - This page will allow the user to get signed up to Love Running to start their running journey with the community. The user will be able specify if they would like to take part in road, trail or both types of running. The user will be asked to submit their full name and email address. 
+  - This page will allow the user to get join SJ Fitness. The user will be able select their desired membership type whilst also being asked to provide their full name and email address.
+  - Below the Join Us form, there is a looped video of a group of people high fiving each other which is used to convey the fact that the client is joining a supportive community by joining SJ Fitness.
+  
+  [Join Us](https://github.com/lucyrush/readme-template/blob/master/media/love_running_signup.png)
 
-![Sign Up](https://github.com/lucyrush/readme-template/blob/master/media/love_running_signup.png)
-
-For some/all of your features, you may choose to reference the specific project files that implement them.
-
-In addition, you may also use this section to discuss plans for additional features to be implemented in the future:
 
 ### Features Left to Implement
 
-- A future feature to implement would be the embedding of fitness related videos which loop on the pages.
+- A future feature to implement would be the embedding of fitness related videos which loop on all pages as opposed to the Join Us page only.
 
 ## Testing 
 
@@ -165,15 +156,12 @@ You can break the credits section up into Content and Media, depending on what y
 
 ### Content 
 
+- XXX
 - The text for the Home page was taken from Wikipedia Article A
 - Instructions on how to implement form validation on the Sign Up page was taken from [Specific YouTube Tutorial](https://www.youtube.com/)
-- The icons in the footer were taken from [Font Awesome](https://fontawesome.com/)
 
 ### Media
 
-- The photos used on the home and sign up page are from This Open Source site
-- The images used for the gallery page were taken from this other open source site
+- The photo used on the landing/home page was taken from XXX.
+- The icons used for the Pricing tiers and for the social media icons in the footer were taken from [Font Awesome](https://fontawesome.com/)
 - The video used on the Join Us page is from (https://www.pexels.com/video/silhouette-of-friends-doing-high-five-8692158/)
-
-
-Congratulations on completing your Readme, you have made another big stride in the direction of being a developer!
