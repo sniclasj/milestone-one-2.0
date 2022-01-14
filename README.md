@@ -1,46 +1,3 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
-
-## Python Terminal Info
-
-To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the terminal, type:
-
-`python3 -m http.server`
-
-A blue button should appear to click: _Make Public_,
-
-Another blue button should appear to click: _Open Browser_.
-
-## Step 1
-The first step was to create index.html and load in the Bootstrap CDN located at (https://getbootstrap.com/docs/4.0/getting-started/download/#bootstrapcdn).
-
-I then created the assets, css and images folder before creating the style.css file within the css folder.
-I also imported some Google Fonts into the style.css sheet.
-
-At this point, I decided to test my style.css file and came across my first issue. It didn't seem as if the styles applied within style.css were being applied to the web-page.
-
-To resolve this, I inspected the code and realised that the issue was due to a typo in the header where I had typed 'stylsheet' instead of 'stylesheet' PUT IN SCREENSHOT OF THIS.
-
-Typo Error Screenshot
-
-Once I validated that the style sheet was working, I utilised the Bootstrap Grid to create three responsive columns within a container. I gave the container a class of 'section-one'.
-
-## Step 2
-I then created another container and placed this above the 'section-one' container to create a navbar for the website with an id pf header. The navbar consisted of a branded logo to the left of the page and three links to the right of the page, namely, Home, Pricing and Join Us.
-
-## Step 3
-I wanted to place a 'hero image' between the navbar and section-one so I utilised and modified the following code (https://stackoverflow.com/questions/12393382/positioning-text-relative-to-an-image-when-the-image-size-changes) to ensure the content overlayed on the image would re-size relative to the screensize/viewport. STRUGGLING TO GET THIS TO WORK!
-Image from (https://simplifaster.com/articles/weightlifting-progressions-tall-long-limbed-athletes/).
-
-## Step 4
-I then created another bootstrap container which contained three responsive columns with an id of 'footer'.
-
-## Step 5
-I replicated the container containing three columns layout utilised in index.html for pricing.html however the background colour for each column has a different level of transparency to highlight the different pricing tiers.
-
-## Step 6
-I created a container on the 'join-us' page and placed a form within a Bootstrap col-12. The form has four required inputs (one of which is a dropdown) and two buttons (submit and restet).
-I utilised and modified the following code to create a placeholder for my dropdown list (https://stackoverflow.com/questions/5805059/how-do-i-make-a-placeholder-for-a-select-box) and I have populated the 'action' section of my form with the following url (https://formdump.codeinstitute.net).
-
 # SJ Fitness
 
 SJ Fitness is a website for a personal trainer owned gym located in West Wales. The site is aimed at fitness enthusiasts of all levels. The website will be used to attract new members to the gym and to enable the gym to receive new member enquiries at the client's desired tier/price point.
@@ -116,6 +73,7 @@ PUT IN OWN FOOTER SCREENSHOT
 
 ## Testing 
 
+NEED TO CONDUCT TESTING!
 In this section, you need to convince the assessor that you have conducted enough testing to legitimately believe that the site works well. Essentially, in this part you will want to go over all of your project’s features and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
 
 In addition, you should mention in this section how your project looks and works on different browsers and screen sizes.
@@ -134,7 +92,7 @@ If this section grows too long, you may want to split it off into a separate fil
 
 ### Unfixed Bugs
 
-You will need to mention unfixed bugs and why they were not fixed. This section should include shortcomings of the frameworks or technologies used. Although time can be a big variable to consider, paucity of time and difficulty understanding implementation is not a valid reason to leave bugs unfixed. 
+- The text which overlays the 'hero-image' on the landing page does not currently re-size relative to screen size. I am in the process of resolving this with tutor support.
 
 ## Deployment
 
@@ -156,12 +114,12 @@ You can break the credits section up into Content and Media, depending on what y
 
 ### Content 
 
-- XXX
-- The text for the Home page was taken from Wikipedia Article A
-- Instructions on how to implement form validation on the Sign Up page was taken from [Specific YouTube Tutorial](https://www.youtube.com/)
+- I utilised and modified the following code (https://stackoverflow.com/questions/12393382/positioning-text-relative-to-an-image-when-the-image-size-changes) to ensure the content overlayed on the image would re-size relative to the screensize/viewport. I also contacted the tutor support team to get this code to work correctly.
+- I utilised and modified the following code to create a placeholder for my dropdown list on the Join Us page (https://stackoverflow.com/questions/5805059/how-do-i-make-a-placeholder-for-a-select-box)
+- I populated the 'action' section of my form with the following url (https://formdump.codeinstitute.net).
 
 ### Media
 
-- The photo used on the landing/home page was taken from XXX.
+- The photo used on the landing/home page was taken from (https://simplifaster.com/articles/weightlifting-progressions-tall-long-limbed-athletes/).
 - The icons used for the Pricing tiers and for the social media icons in the footer were taken from [Font Awesome](https://fontawesome.com/)
 - The video used on the Join Us page is from (https://www.pexels.com/video/silhouette-of-friends-doing-high-five-8692158/)
