@@ -140,3 +140,8 @@ form .buttons:hover {
     background-color: black;
     color: rgb(255, 196, 0);
 }
+
+#high-five {
+    width: 100%;
+    min-height: 500px;
+}
