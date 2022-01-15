@@ -88,6 +88,11 @@ body {
     left: 900px
 }
 
+#map {
+    width: 100%;
+    min-height: 300px;
+}
+
 /* Pricing */
 a#link {
     color: rgb(255, 196, 0);
