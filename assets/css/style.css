@@ -83,9 +83,7 @@ body {
     height: 100px;
     background-color: rgba(255, 196, 0, 0.5);
     color: #fafafa;
-    position: absolute;
-    top: 350px;
-    left: 900px
+    position: relative;
 }
 
 #map {
