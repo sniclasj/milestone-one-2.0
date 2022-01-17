@@ -2,7 +2,7 @@
 
 SJ Fitness is a website for a personal trainer owned gym located in West Wales. The site is aimed at fitness enthusiasts of all levels. The website will be used to attract new members to the gym and to enable the gym to receive new member enquiries at the client's desired tier/price point.
 
-![Responsive Mockup]("")
+![Responsive Mockup](documentation/testing/sj-fitness-responsive-mock-up.jpg)
 
 ## Features 
 
