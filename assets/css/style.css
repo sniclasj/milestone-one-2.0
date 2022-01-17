@@ -128,6 +128,7 @@ ul li.no-bullet {
 form {
     background-color: rgba(255, 196, 0, 0.25);
     margin-bottom: 20px;
+    margin-top: 20px;
 }
 
 form ul li {
