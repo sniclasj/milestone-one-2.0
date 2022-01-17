@@ -23,7 +23,7 @@ SJ Fitness is a website for a personal trainer owned gym located in West Wales. 
 
 - __The 'SJ Fitness Difference' Section__
 
-  - The SJ Fitness Approach section highlights the gym's features to clients and/or prospective clients. The aim of this section is to entice new clients to the gym by showcasing its premium features in a clean and concise way.
+  - This section highlights the gym's features to clients and/or prospective clients. The aim of this section is to entice new clients to the gym by showcasing its premium features in a clean and concise way.
 
 ![The SJ Fitness Difference Section](documentation/testing/sj-fitness-difference-section.jpg)
 
