@@ -2,7 +2,6 @@
 
 SJ Fitness is a website for a personal trainer owned gym located in West Wales. The site is aimed at fitness enthusiasts of all levels. The website will be used to attract new members to the gym and to enable the gym to receive new member enquiries at the client's desired tier/price point.
 
-MAKE THIS FOR MY WEBSITE
 ![Responsive Mockup]("")
 
 ## Features 
@@ -14,55 +13,59 @@ MAKE THIS FOR MY WEBSITE
   - This features on all pages and includes links to the gym's branding, Home page, Pricing page and Join Us page. The navigation bar is fully responsive and  is the same on each page to facilitate easy navigation.
   - The navigation bar will allow users to navigate the site on all devices without having to use the 'back' button. 
 
-SCREENSHOT OF NAVBAR
-![Nav Bar](https://github.com/lucyrush/readme-template/blob/master/media/love_running_nav.png)
+![Nav Bar](documentation/testing/sj-fitness-navbar.jpg)
 
 - __The Home/Landing Page__
 
-  - The home/landing page contains a photo a photograph with the SJ Fitness motto of 'Better Starts Today' overlayed on it. This motto is present to convey that the aim of the gym is to improve their fitness and engcourages the user to start their journey as soon as possible. 
+  - The home/landing page contains a photo a photograph of a person grabbing a barbell ready to lift it with the SJ Fitness motto of 'Better Starts Today' on a banner above. This motto is present to convey that the aim of the gym is to improve their fitness and engcourages the user to start their journey as soon as possible. 
 
-![Landing Page](https://github.com/lucyrush/readme-template/blob/master/media/love_running_landing.png)
+![Landing Page](documentation/testing/sj-fitness-landing-page.jpg)
 
 - __The 'SJ Fitness Approach' Section__
 
   - The SJ Fitness Approach section describes to the user how the gym will cater to their individual needs. It highllights that the gym does not a 'one size fits all' approach to health and fitness and that the gym wants to ensure everyone is treated as an individual. This is expanded upton in the adjacent 'How Can We Help You?' section.
 
-![SJ Fitness Approach](https://github.com/lucyrush/readme-template/blob/master/media/love_running_ethos.png)
+![SJ Fitness Approach Section](documentation/testing/sj-fitness-sj-fitness-approach-section.jpg)
 
 - __The 'How Can We Help You? Section__
 
   - This section also mentions numerous goals that clients may have in order to appeal to as wide an audience as possible. It leads on from the 'SJ Fitness Approach' section to highlight to clients and prospective clients that this is a gym for all abilities and all goals as opposed to only focussing on one type of training.
 
-  ![How Can We Help You?](https://github.com/lucyrush/readme-template/blob/master/media/love_running_ethos.png)
+![How Can We Help You? Section](documentation/testing/sj-fitness-how-can-we-help-you-section.jpg)
 
   - __The 'Find Us!' Section__
 
   - This section is simply a Google Maps snapshot to assist clients in finding the gym.
 
-![Find Us](https://github.com/lucyrush/readme-template/blob/master/media/love_running_times.png)
+![Find Us Section](documentation/testing/sj-fitness-find-us-section.jpg)
 
 - __The Footer__ 
 
   - The footer section includes links to social media sites (facebook, twitter, instagram), and an email address to help potential clients get in contact with SJ Fitness. The social media links open to a new tab for easier navigation. 
   - The footer is valuable for the gym business as it allows prospective clients to follow them on social media and to get in touch about new memberships. It is also valuable for the user as it directs them to the social media sites and gives them an email point of contact to ask any questions prior to signing up via the 'Join Us' page.
 
-PUT IN OWN FOOTER SCREENSHOT
-![Footer](https://github.com/lucyrush/readme-template/blob/master/media/love_running_footer.png)
+![Footer](documentation/testing/sj-fitness-footer.jpg)
 
 - __The Pricing Page__
 
   - The pricing page has a brief explanation at the top of the page below the navigation bar which also contains a hyperlink to the Join Us page so that the user can immediately navigate to sign up.
+
+![Pricing Intro](documentation/testing/sj-fitness-pricing-intro.jpg)
+
   - The pricing page is then split into three columns which represents the different membership tiers and their respecting monthly cost. The information on different tiers is concisely summarised via the use of bullet points so that the user is not overloaded with too much information regarding the membership types.
   - The membership tiers and bullet points are positioned in such a way that it is clear to see what is omitted as the pricing tier decreases which makes comparison of membership tiers easier for the user. This is also a strategy to increase the gym's revenue by convincing prospective clients to sign up for the top tier as they can see that the top ties does provide more for their money when comparing membership options.
 
-![Pricing](https://github.com/lucyrush/readme-template/blob/master/media/love_running_gallery.png)
+![Pricing Tiers](documentation/testing/sj-fitness-pricing-tiers.jpg)
 
 - __The Join Us Page__
 
   - This page will allow the user to get join SJ Fitness. The user will be able select their desired membership type whilst also being asked to provide their full name and email address.
+
+![Join Us Form](documentation/testing/sj-fitness-join-us-form.jpg)
+
   - Below the Join Us form, there is a looped video of a group of people high fiving each other which is used to convey the fact that the client is joining a supportive community by joining SJ Fitness.
-  
-  [Join Us](https://github.com/lucyrush/readme-template/blob/master/media/love_running_signup.png)
+
+![Join Us Video](documentation/testing/sj-fitness-join-us-video.jpg)
 
 
 ### Features Left to Implement
@@ -90,7 +93,7 @@ If this section grows too long, you may want to split it off into a separate fil
 
 ### Unfixed Bugs
 
-- The text which overlays the 'hero-image' on the landing page does not currently re-size relative to screen size. I am in the process of resolving this with tutor support.
+- XXX
 
 ## Deployment
 
@@ -101,18 +104,13 @@ This section should describe the process you went through to deploy the project 
   - From the source section drop-down menu, select the Master Branch
   - Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment. 
 
-The live link can be found here - https://code-institute-org.github.io/love-running-2.0/index.html 
+The live link can be found here - XXX
 
 
 ## Credits 
 
-In this section you need to reference where you got your content, media and extra help from. It is common practice to use code from other repositories and tutorials, however, it is important to be very specific about these sources to avoid plagiarism. 
-
-You can break the credits section up into Content and Media, depending on what you have included in your project. 
-
 ### Content 
 
-- I utilised and modified the following code (https://stackoverflow.com/questions/12393382/positioning-text-relative-to-an-image-when-the-image-size-changes) to ensure the content overlayed on the image would re-size relative to the screensize/viewport. I also contacted the tutor support team to get this code to work correctly.
 - I utilised and modified the following code to create a placeholder for my dropdown list on the Join Us page (https://stackoverflow.com/questions/5805059/how-do-i-make-a-placeholder-for-a-select-box)
 - I populated the 'action' section of my form with the following url (https://formdump.codeinstitute.net).
 
