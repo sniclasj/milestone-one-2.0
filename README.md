@@ -27,7 +27,7 @@ SJ Fitness is a website for a personal trainer owned gym located in West Wales. 
 
 ![The SJ Fitness Difference Section](documentation/testing/sj-fitness-difference-section.jpg)
 
-- __The 'How Can We Help You? Section__
+- __The 'How Can We Help You?' Section__
 
   - This section mentions numerous goals that clients may have in order to appeal to as wide an audience as possible. It leads on from the 'SJ Fitness Difference' section to highlight to clients and prospective clients that this is a gym for all abilities and all goals as opposed to only focussing on one type of training.
 
@@ -74,7 +74,6 @@ SJ Fitness is a website for a personal trainer owned gym located in West Wales. 
 
 ## Testing 
 
-NEED TO CONDUCT TESTING!
 In this section, you need to convince the assessor that you have conducted enough testing to legitimately believe that the site works well. Essentially, in this part you will want to go over all of your project’s features and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
 
 In addition, you should mention in this section how your project looks and works on different browsers and screen sizes.
