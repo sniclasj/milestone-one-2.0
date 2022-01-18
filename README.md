@@ -76,10 +76,7 @@ SJ Fitness is a website for a personal trainer owned gym located in West Wales. 
 
 ### Screen Size Testing
 
-#### Desktop/Large Screen Devices
- - Explanation/screenshot of the dev tools responsive screen size.
-#### Medium Screen Devices and Below
- - Explanation/screenshot of the dev tools responsive screen size.
+- Chrome DevTools has been used to inspect the website. The window size has been responsively adjusted to inspect how the website performs at different screen sizes. The website works as planned as once the screen size goes beyond the breakpoint as defined by bootstrap for a medium sized device, any columns/page elements that would be adjacent to each other on a large screen stack on top of each other as desired.
 
 ### Validator Testing 
 
