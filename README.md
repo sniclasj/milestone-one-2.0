@@ -105,10 +105,11 @@ If this section grows too long, you may want to split it off into a separate fil
   - Join Us
 ![Join Us Mobile Lighthouse Results](documentation/testing/sj-fitness-join-us-lighthouse-desktop.jpg)
 
+The issue highlighted int he Lighthouse testing is due to the contrast of text colour in relation to background colour on the pricing.html page. This is discussed in the Unfixed Bugs section below.
 
 ### Unfixed Bugs
 
-- There are no known unfixed bugs at present.
+- The only issue at present is the contrast issue xxx.
 
 ## Deployment
 
