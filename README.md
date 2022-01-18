@@ -76,15 +76,29 @@ SJ Fitness is a website for a personal trainer owned gym located in West Wales. 
 
 ### Screen Size Testing
 
-- Desktop/Large Screen Devices
-- Medium Screen Devices and Below
+#### Desktop/Large Screen Devices
+ - Explanation/screenshot of the dev tools responsive screen size.
+#### Medium Screen Devices and Below
+ - Explanation/screenshot of the dev tools responsive screen size.
 
 ### Validator Testing 
 
 - HTML
-  - No errors were returned on any page when passing through the official [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fsniclasj.github.io%2Fsj-fitness%2F). However, XXX.
+  - No errors were returned on any page when passing through the official [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fsniclasj.github.io%2Fsj-fitness%2F). However, the following warnings were highlighted on the Home page and the Join-Us page due to the absence of a heading (h2 to h6) in a section in both instances.
+![Home Page Validator Warning](documentation/testing/sj-fitness-index-testing.jpg)
+![Join Us Page Validator Warning](documentation/testing/sj-fitness-join-us-testing.jpg)
+  - The Home page warning is related to the hero image section missing a h2 to h6 heading. The reason for this is that the section is specifically there to create the space for the 'hero-image' on the home page therefore a heading would not be suitable in this instance.
+  - The Join Us page warnings are also due to the absence of a heading (h2 to h6) for the sections used to create space for the 'join us' form and for the looped video. Again, a heading would not be appropriate in these instances which is why they have been omitted.
+
+  - The Pricing page did not return any errors or warnings as shown in the below screenshot.
+  ![Pricing Page Validator](documentation/testing/sj-fitness-pricing-testing.jpg)
+
 - CSS
-  - No errors were found on any page when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fsniclasj.github.io%2Fsj-fitness%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en). However, XXX.
+  - No errors or warnings were found on any page when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fsniclasj.github.io%2Fsj-fitness%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en).
+  - The screenshots of the results for each page are shown below.
+![Home Page CSS Validator](documentation/testing/sj-fitness-index-css-testing.jpg)
+![Pricing Page CSS Validator](documentation/testing/sj-fitness-pricing-css-testing.jpg)
+![Join Us Page CSS Validator](documentation/testing/sj-fitness-join-us-css-testing.jpg)
 
 ### Lighthouse
 
