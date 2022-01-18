@@ -17,7 +17,7 @@ SJ Fitness is a website for a personal trainer owned gym located in West Wales. 
 
 - __The Home/Landing Page__
 
-  - The home/landing page contains a photo a photograph of a person grabbing a barbell ready to lift it with the SJ Fitness motto of 'Better Starts Today' on a banner above. This motto is present to convey that the aim of the gym is to improve their fitness and engcourages the user to start their journey as soon as possible. 
+  - The home/landing page contains a photograph of a person grabbing a barbell ready to lift it with the SJ Fitness motto of 'Better Starts Today' on a banner above. This motto is present to convey that the aim of the gym is to improve their fitness and engcourages the user to start their journey as soon as possible. 
 
 ![Landing Page](documentation/testing/sj-fitness-landing-page.jpg)
 
@@ -35,7 +35,7 @@ SJ Fitness is a website for a personal trainer owned gym located in West Wales. 
 
   - __The 'Find Us!' Section__
 
-  - This section is simply a Google Maps snapshot to assist clients in finding the gym.
+  - This section is a Google Maps snapshot to assist clients in finding the gym.
 
 ![Find Us Section](documentation/testing/sj-fitness-find-us-section.jpg)
 
@@ -53,13 +53,13 @@ SJ Fitness is a website for a personal trainer owned gym located in West Wales. 
 ![Pricing Intro](documentation/testing/sj-fitness-pricing-intro.jpg)
 
   - The pricing page is then split into three columns which represents the different membership tiers and their respecting monthly cost. The information on different tiers is concisely summarised via the use of bullet points so that the user is not overloaded with too much information regarding the membership types.
-  - The membership tiers and bullet points are positioned in such a way that it is clear to see what is omitted as the pricing tier decreases which makes comparison of membership tiers easier for the user. This is also a strategy to increase the gym's revenue by convincing prospective clients to sign up for the top tier as they can see that the top ties does provide more for their money when comparing membership options.
+  - The membership tiers and bullet points are positioned in such a way that it is clear to see what is omitted as the pricing tier decreases which makes comparison of membership tiers easier for the user. This is also a strategy to increase the gym's revenue by convincing prospective clients to sign up for the top tier as they can see that the top tier does provide more for their money when comparing membership options.
 
 ![Pricing Tiers](documentation/testing/sj-fitness-pricing-tiers.jpg)
 
 - __The Join Us Page__
 
-  - This page will allow the user to get join SJ Fitness. The user will be able select their desired membership type whilst also being asked to provide their full name and email address.
+  - This page will allow the user to join SJ Fitness. The user will be able select their desired membership type whilst also being asked to provide their full name and email address.
 
 ![Join Us Form](documentation/testing/sj-fitness-join-us-form.jpg)
 
@@ -70,7 +70,7 @@ SJ Fitness is a website for a personal trainer owned gym located in West Wales. 
 
 ### Features Left to Implement
 
-- A future feature to implement would be the embedding of fitness related videos which loop on all pages as opposed to the Join Us page only.
+- A future feature to implement would be the embedding of fitness related videos which loop on all pages as opposed to the Join Us page only, a gallery to showcase people enjoying the experience of exercising at SJ Fitness and  timetable of classes so clients can plan their week of exercise.
 
 ## Testing 
 
@@ -112,7 +112,7 @@ SJ Fitness is a website for a personal trainer owned gym located in West Wales. 
   - Desktop Test Results: Join Us
 ![Join Us Mobile Lighthouse Results](documentation/testing/sj-fitness-join-us-lighthouse-desktop.jpg)
 
-The issue highlighted int he Lighthouse testing is due to the contrast of text colour in relation to background colour on the pricing.html page. This is discussed in the Unfixed Bugs section below.
+The issue highlighted in the Lighthouse testing is due to the contrast of text colour in relation to background colour on the pricing.html page. This is discussed in the Unfixed Bugs section below.
 
 ### Unfixed Bugs
 
@@ -139,3 +139,7 @@ The live link can be found here - [SJ Fitness](https://sniclasj.github.io/sj-fit
 - The photo used on the landing/home page was taken from: (https://simplifaster.com/articles/weightlifting-progressions-tall-long-limbed-athletes/).
 - The icons used for the Pricing tiers and for the social media icons in the footer were taken from [Font Awesome](https://fontawesome.com/)
 - The video used on the Join Us page is from: (https://www.pexels.com/video/silhouette-of-friends-doing-high-five-8692158/)
+
+### Acknowledgements
+
+- I would like to thank my Code Institute mentor Tim Nelson for his support during the course of this project.
