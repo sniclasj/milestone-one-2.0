@@ -86,13 +86,24 @@ If this section grows too long, you may want to split it off into a separate fil
 ### Validator Testing 
 
 - HTML
-  - No errors were returned when passing through the official [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fsniclasj.github.io%2Fsj-fitness%2F). However, XXX.
+  - No errors were returned on any page when passing through the official [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fsniclasj.github.io%2Fsj-fitness%2F). However, XXX.
 - CSS
-  - No errors were found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fsniclasj.github.io%2Fsj-fitness%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en). However, XXX.
+  - No errors were found on any page when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fsniclasj.github.io%2Fsj-fitness%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en). However, XXX.
 - Lighthouse
   - Mobile Test Results
-
+  - Home
+![Home Mobile Lighthouse Results](documentation/testing/sj-fitness-index-lighthouse-mobile.jpg)
+  - Pricing
+![Pricing Mobile Lighthouse Results](documentation/testing/sj-fitness-pricing-lighthouse-mobile.jpg)
+  - Join Us
+![Join Us Mobile Lighthouse Results](documentation/testing/sj-fitness-join-us-lighthouse-mobile.jpg)
   - Desktop Test Results
+  - Home
+![Home Mobile Lighthouse Results](documentation/testing/sj-fitness-index-lighthouse-desktop.jpg)
+  - Pricing
+![Pricing Mobile Lighthouse Results](documentation/testing/sj-fitness-pricing-lighthouse-desktop.jpg)
+  - Join Us
+![Join Us Mobile Lighthouse Results](documentation/testing/sj-fitness-join-us-lighthouse-desktop.jpg)
 
 
 ### Unfixed Bugs
