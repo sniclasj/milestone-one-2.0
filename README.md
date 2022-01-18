@@ -74,14 +74,10 @@ SJ Fitness is a website for a personal trainer owned gym located in West Wales. 
 
 ## Testing 
 
-In this section, you need to convince the assessor that you have conducted enough testing to legitimately believe that the site works well. Essentially, in this part you will want to go over all of your project’s features and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
+### Screen Size Testing
 
-In addition, you should mention in this section how your project looks and works on different browsers and screen sizes.
-
-You should also mention in this section any interesting bugs or problems you discovered during your testing, even if you haven't addressed them yet.
-
-If this section grows too long, you may want to split it off into a separate file and link to it from here.
-
+- Desktop/Large Screen Devices
+- Medium Screen Devices and Below
 
 ### Validator Testing 
 
@@ -89,20 +85,20 @@ If this section grows too long, you may want to split it off into a separate fil
   - No errors were returned on any page when passing through the official [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fsniclasj.github.io%2Fsj-fitness%2F). However, XXX.
 - CSS
   - No errors were found on any page when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fsniclasj.github.io%2Fsj-fitness%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en). However, XXX.
-- Lighthouse
-  - Mobile Test Results
-  - Home
+
+### Lighthouse
+
+  - Mobile Test Results: Home
 ![Home Mobile Lighthouse Results](documentation/testing/sj-fitness-index-lighthouse-mobile.jpg)
-  - Pricing
+  - Mobile Test Results: Pricing
 ![Pricing Mobile Lighthouse Results](documentation/testing/sj-fitness-pricing-lighthouse-mobile.jpg)
-  - Join Us
+  - Mobile Test Results: Join Us
 ![Join Us Mobile Lighthouse Results](documentation/testing/sj-fitness-join-us-lighthouse-mobile.jpg)
-  - Desktop Test Results
-  - Home
+  - Desktop Test Results: Home
 ![Home Mobile Lighthouse Results](documentation/testing/sj-fitness-index-lighthouse-desktop.jpg)
-  - Pricing
+  - Desktop Test Results: Pricing
 ![Pricing Mobile Lighthouse Results](documentation/testing/sj-fitness-pricing-lighthouse-desktop.jpg)
-  - Join Us
+  - Desktop Test Results: Join Us
 ![Join Us Mobile Lighthouse Results](documentation/testing/sj-fitness-join-us-lighthouse-desktop.jpg)
 
 The issue highlighted int he Lighthouse testing is due to the contrast of text colour in relation to background colour on the pricing.html page. This is discussed in the Unfixed Bugs section below.
