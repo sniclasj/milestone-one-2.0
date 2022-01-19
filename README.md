@@ -4,6 +4,16 @@ SJ Fitness is a website for a personal trainer owned gym located in West Wales. 
 
 ![Responsive Mockup](documentation/testing/sj-fitness-responsive-mock-up.jpg)
 
+## User Stories
+
+## UX
+
+### Colour Scheme
+
+### Typography
+
+### Wireframes 
+
 ## Features 
 
 ### Existing Features
@@ -70,12 +80,17 @@ SJ Fitness is a website for a personal trainer owned gym located in West Wales. 
 
 ### Features Left to Implement
 
-- A future feature to implement would be the embedding of fitness related videos which loop on all pages as opposed to the Join Us page only, a gallery to showcase people enjoying the experience of exercising at SJ Fitness and  timetable of classes so clients can plan their week of exercise.
+A future feature to implement would be the embedding of fitness related videos which loop on all pages as opposed to the Join Us page only, a gallery to showcase people enjoying the experience of exercising at SJ Fitness and  timetable of classes so clients can plan their week of exercise.
+
+## Technologies Used
+
 
 ## Testing
 To view all testing documentation, please refer to [TESTING.md](TESTING.md)
 
 ## Deployment
+
+### Local Deployment
 
 - The site was deployed to GitHub pages. The steps to deploy are as follows: 
   - In the GitHub repository, navigate to the Settings tab 
@@ -99,4 +114,4 @@ The live link can be found here - [SJ Fitness](https://sniclasj.github.io/sj-fit
 
 ### Acknowledgements
 
-- I would like to thank my Code Institute mentor Tim Nelson for his support during the course of this project.
+I would like to thank my Code Institute mentor Tim Nelson for his support during the course of this project.
