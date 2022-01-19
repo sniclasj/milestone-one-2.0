@@ -8,25 +8,25 @@ The website has been successfully tested on the following browsers:
 - Safari (on personal mobile device - iPhone 11 Pro)
 
 Chrome Screenshots
-[Home Top](documentation/testing-sj-fitness-chrome-desktop.jpg)
-[Home Bottom](documentation/testing-sj-fitness-chrome-desktop-a.jpg)
-[Pricing](documentation/testing-sj-fitness-chrome-desktop-b.jpg)
-[Join Us](documentation/testing-sj-fitness-chrome-desktop-c.jpg)
+![Home Top](documentation/testing-sj-fitness-chrome-desktop.jpg)
+![Home Bottom](documentation/testing-sj-fitness-chrome-desktop-a.jpg)
+![Pricing](documentation/testing-sj-fitness-chrome-desktop-b.jpg)
+![Join Us](documentation/testing-sj-fitness-chrome-desktop-c.jpg)
 
 Edge Screenshots
-[Home Top](documentation/testing-sj-fitness-edge-desktop.jpg)
-[Home Bottom](documentation/testing-sj-fitness-edge-desktop-a.jpg)
-[Pricing](documentation/testing-sj-fitness-edge-desktop-b.jpg)
-[Join Us](documentation/testing-sj-fitness-edge-desktop-c.jpg)
+![Home Top](documentation/testing-sj-fitness-edge-desktop.jpg)
+![Home Bottom](documentation/testing-sj-fitness-edge-desktop-a.jpg)
+![Pricing](documentation/testing-sj-fitness-edge-desktop-b.jpg)
+![Join Us](documentation/testing-sj-fitness-edge-desktop-c.jpg)
 
 Safari (Mobile)
-[Home Top](documentation/testing-sj-fitness-safari-mobile.jpg)
-[Home Middle](documentation/testing-sj-fitness-safari-mobile-a.jpg)
-[Home Bottom](documentation/testing-sj-fitness-safari-mobile-b.jpg)
-[Pricing Top](documentation/testing-sj-fitness-safari-mobile-c.jpg)
-[Pricing Middle](documentation/testing-sj-fitness-safari-mobile-d.jpg)
-[Pricing Bottom](documentation/testing-sj-fitness-safari-mobile-e.jpg)
-[Join Us](documentation/testing-sj-fitness-safari-mobile-f.jpg)
+![Home Top](documentation/testing-sj-fitness-safari-mobile.jpg)
+![Home Middle](documentation/testing-sj-fitness-safari-mobile-a.jpg)
+![Home Bottom](documentation/testing-sj-fitness-safari-mobile-b.jpg)
+![Pricing Top](documentation/testing-sj-fitness-safari-mobile-c.jpg)
+![Pricing Middle](documentation/testing-sj-fitness-safari-mobile-d.jpg)
+![Pricing Bottom](documentation/testing-sj-fitness-safari-mobile-e.jpg)
+![Join Us](documentation/testing-sj-fitness-safari-mobile-f.jpg)
 
 ## Code Validation
 
