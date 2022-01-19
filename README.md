@@ -93,6 +93,8 @@ A future feature to implement would be the embedding of fitness related videos w
 - amiresponsive - used for the mockup image
 - HTML - used to write the code for the website
 - CSS - used to style the website
+- Bootstrap - used to create a grid structure for the website
+- Font Awesome - used to add icons to the website
 
 ## Testing
 
