@@ -40,6 +40,8 @@ The font selected for the website was _Arvo_ which was imported from [Google Fon
 
 This font was selected as it was easy to read and looked striking when capitalised.
 
+All icons were sourced from [Font Awesome](https://fontawesome.com/).
+
 ### Wireframes
 
 __Desktop/Large Screen Home Wireframe__
