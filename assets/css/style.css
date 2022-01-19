@@ -78,6 +78,11 @@ body {
     text-shadow: 2px 2px 2px rgba(0, 0, 0, 0.5);
 }
 
+.better-starts-today p {
+    padding-top: 10px;
+    text-shadow: 2px 2px 2px rgba(0, 0, 0, 0.5);
+}
+
 .hero-image {
     background: url("../images/olympic-lifts.jpg") center center no-repeat;
     min-height: 500px;
