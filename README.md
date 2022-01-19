@@ -122,7 +122,7 @@ Below the Join Us form, there is a looped video of a group of people high fiving
 
 ### Features Left to Implement
 
-A future feature to implement would be the embedding of fitness related videos which loop on all pages as opposed to the Join Us page only, a gallery to showcase people enjoying the experience of exercising at SJ Fitness and  timetable of classes so clients can plan their week of exercise.
+A future feature to implement would be the embedding of fitness related videos which loop on all pages as opposed to the Join Us page only, a gallery to showcase people enjoying the experience of exercising at SJ Fitness and a timetable of classes so clients can plan their week of exercise.
 
 ## Technologies Used
 
