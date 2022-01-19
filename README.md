@@ -6,6 +6,16 @@ SJ Fitness is a website for a personal trainer owned gym located in West Wales. 
 
 ## User Stories
 
+As a prospective client visiting the website I want the ability to send an enquiry for my required membership tier/price level, so that I may register my interest in joining the gym.
+
+End user goal: Register interest in joining the gym at desired membership tier.
+
+End business goal: Increase gym membership number and therefore increase revenue.
+
+Acceptance criteria: Form with required inputs of full name, emil address, and desired membership package.
+
+Measurement of success: _________________________
+
 ## UX
 
 ### Colour Scheme
