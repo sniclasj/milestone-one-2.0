@@ -18,6 +18,18 @@ Measurement of success: _________________________
 
 ## UX
 
+The aim of my site design was to be as simple, clear and concise as possible.
+
+The Home and Pricing page have the same layout consisting of a section which takes up the whole width of the screen followed by three columns.
+
+The pricing page utilises different opacity percentages in each column to represent different pricing tiers. This is discussed in more detail in the Colour Scheme section below.
+
+The Join Us page has been kept very simple consiting of a form and an inspirational video only. The reason for the simplicity of this page is to ensure the user solely focuses on completing and submitting the form.
+
+The website is designed to react responsively when the screen size decreases to medium and below.
+
+When the screen size decreases beyond the medium breakpoint, the three columns which are usually adjacent to each other on a large screen will stack on top of each other. The contents of the footer also stack on top of each other to ensure the important information within the footer remains visible.
+
 ### Colour Scheme
 
 The body has a background colour of _Davys Grey_ to convey an industrial theme. The text colour is _Cultured_ to allow the text to stand out against the darker background.
