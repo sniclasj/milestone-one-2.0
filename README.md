@@ -40,7 +40,19 @@ The font selected for the website was _Arvo_ which was imported from [Google Fon
 
 This font was selected as it was easy to read and looked striking when capitalised.
 
-### Wireframes 
+### Wireframes
+
+__Desktop/Large Screen Home Wireframe__
+![Desktop Home Wireframe](documentation/wireframes/desktop-home-wireframe.jpg)
+
+__Desktop/Large Screen Pricing Wireframe__
+![Desktop Home Wireframe](documentation/wireframes/desktop-pricing-wireframe.jpg)
+
+__Desktop/Large Screen Join Us Wireframe__
+![Desktop Home Wireframe](documentation/wireframes/desktop-join-us-wireframe.jpg)
+
+__Medium Screen and Below Wireframe__
+![Desktop Home Wireframe](documentation/wireframes/medium-and-below-wireframe.jpg)
 
 ## Features 
 
