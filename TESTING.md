@@ -1,16 +1,8 @@
 # Testing
-## Screen Size Testing
+## Browser Compatibility
+Chrome DevTools has been used to inspect the website. The window size has been responsively adjusted to inspect how the website performs at different screen sizes. The website works as planned as once the screen size goes beyond the breakpoint as defined by bootstrap for a medium sized device, any columns/page elements that would be adjacent to each other on a large screen stack on top of each other as desired.
 
-### Responsiveness
-- X
-
-### Browser Compatibility
-- X
-
-- Chrome DevTools has been used to inspect the website. The window size has been responsively adjusted to inspect how the website performs at different screen sizes. The website works as planned as once the screen size goes beyond the breakpoint as defined by bootstrap for a medium sized device, any columns/page elements that would be adjacent to each other on a large screen stack on top of each other as desired.
-
-## Validator Testing 
-
+## Code Validation
 - HTML
   - No errors were returned on any page when passing through the official W3C Validator as shown in the links below.
   - [W3C Validator Home](https://validator.w3.org/nu/?doc=https://sniclasj.github.io/sj-fitness/index.html)
@@ -31,8 +23,7 @@
   - The screenshots of the result is below.
 ![Home Page CSS Validator](documentation/testing/sj-fitness-index-css-testing.jpg)
 
-### Lighthouse
-
+- Lighthouse
   - Mobile Test Results: Home
 ![Home Mobile Lighthouse Results](documentation/testing/sj-fitness-index-lighthouse-mobile.jpg)
   - Mobile Test Results: Pricing
@@ -46,8 +37,11 @@
   - Desktop Test Results: Join Us
 ![Join Us Mobile Lighthouse Results](documentation/testing/sj-fitness-join-us-lighthouse-desktop.jpg)
 
-The issue highlighted in the Lighthouse testing is due to the contrast of text colour in relation to background colour on the pricing.html page. This is discussed in the Unfixed Bugs section below.
+The issue highlighted in the Lighthouse testing is due to the contrast of text colour in relation to background colour on the pricing.html page. This is discussed in the Unfixed Bugs section at the end of this document.
 
-### Unfixed Bugs
+## Responsiveness
 
-- The only issue at present is the contrast issue on the pricing.html page. In order to completely address this, I could modify the colour theme of the website to increase the contrast ratio. To partially rectify this issue, I have added text shadowing to the text style so that the text is more visible/readable.
+## User Story Tests
+
+## Unfixed Bugs
+The only issue at present is the contrast issue on the pricing.html page. In order to completely address this, I could modify the colour theme of the website to increase the contrast ratio. To partially rectify this issue, I have added text shadowing to the text style so that the text is more visible/readable.
