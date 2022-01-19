@@ -20,7 +20,25 @@ Measurement of success: _________________________
 
 ### Colour Scheme
 
+The body has a background colour of _Davys Grey_ to convey an industrial theme. The text colour is _Cultured_ to allow the text to stand out against the darker background.
+
+The navbar and footer have a _Black_ background with _Mikado Yellow_ text. This allows the navbar and footer to stand out against the body and the _Mikado Yellow_ text within the _Black_ navbar allows key information and icons to stand out across all pages. Any links within the body text e.g. 'Join Us' are also highlighted in _Mikado Yellow_ to maximise visibility.
+
+The banner on the home page is _Mikado Yellow_ with 50% opacity applied to create a gold effect to convey a premium service. The text on the banner states the gym's motto and the colour used is _Cultured_. A text-shadow is applied whenever _Cultured_ is used on the light _Mikado Yellow_ background to maximise visibility and increase contrast ratio.
+
+A _Mikado Yellow_ background with _Cultured_ text and text-shadowing is used on the Pricing page. The most premium membership tier has _Mikado Yellow_ background with 75% opacity, the middle tier has 50% opacity and the lowest tier has 25% opacity. This is used to convey that membership benefits decrease in line with the monthly payment.
+
+The form on the Join Us page also has a _Mikado Yellow_ background with an opacity of 25%.
+
+The colour scheme below was generated using [coolors](https://coolors.co/).
+
+![Coolors Colour Scheme](documentation/testing/sj-fitness-coolors.jpg)
+
 ### Typography
+
+The font selected for the website was _Arvo_ which was imported from [Google Fonts](https://fonts.google.com/specimen/Arvo).
+
+This font was selected as it was easy to read and looked striking when capitalised.
 
 ### Wireframes 
 
