@@ -2,7 +2,31 @@
 
 ## Browser Compatibility
 
-Chrome DevTools has been used to inspect the website. The window size has been responsively adjusted to inspect how the website performs at different screen sizes. The website works as planned as once the screen size goes beyond the breakpoint as defined by bootstrap for a medium sized device, any columns/page elements that would be adjacent to each other on a large screen stack on top of each other as desired.
+The website has been successfully tested on the following browsers:
+- Chrome
+- Edge
+- Safari (on personal mobile device - iPhone 11 Pro)
+
+Chrome Screenshots
+[Home Top](documentation/testing-sj-fitness-chrome-desktop.jpg)
+[Home Bottom](documentation/testing-sj-fitness-chrome-desktop-a.jpg)
+[Pricing](documentation/testing-sj-fitness-chrome-desktop-b.jpg)
+[Join Us](documentation/testing-sj-fitness-chrome-desktop-c.jpg)
+
+Edge Screenshots
+[Home Top](documentation/testing-sj-fitness-edge-desktop.jpg)
+[Home Bottom](documentation/testing-sj-fitness-edge-desktop-a.jpg)
+[Pricing](documentation/testing-sj-fitness-edge-desktop-b.jpg)
+[Join Us](documentation/testing-sj-fitness-edge-desktop-c.jpg)
+
+Safari (Mobile)
+[Home Top](documentation/testing-sj-fitness-safari-mobile.jpg)
+[Home Middle](documentation/testing-sj-fitness-safari-mobile-a.jpg)
+[Home Bottom](documentation/testing-sj-fitness-safari-mobile-b.jpg)
+[Pricing Top](documentation/testing-sj-fitness-safari-mobile-c.jpg)
+[Pricing Middle](documentation/testing-sj-fitness-safari-mobile-d.jpg)
+[Pricing Bottom](documentation/testing-sj-fitness-safari-mobile-e.jpg)
+[Join Us](documentation/testing-sj-fitness-safari-mobile-f.jpg)
 
 ## Code Validation
 
