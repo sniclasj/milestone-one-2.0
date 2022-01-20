@@ -95,7 +95,47 @@ The issue highlighted in the Lighthouse testing is due to the contrast of text c
 
 ## Responsiveness
 
-INPUT SCREENSHOTS OF RESPONSIVENESS
+__Home Page__
+
+Large
+
+![Home Large](documentation/testing/sj-fitness-responsiveness-large.jpg)
+
+Medium
+
+![Home Medium](documentation/testing/sj-fitness-responsiveness-medium.jpg)
+
+Small
+
+![Home Small](documentation/testing/sj-fitness-responsiveness-small.jpg)
+
+__Pricing Page__
+
+Large
+
+![Pricing Large](documentation/testing/sj-fitness-responsiveness-pricing-large.jpg)
+
+Medium
+
+![Pricing Medium](documentation/testing/sj-fitness-responsiveness-pricing-medium.jpg)
+
+Small
+
+![Pricing Small](documentation/testing/sj-fitness-responsiveness-pricing-small.jpg)
+
+__Join Us Page__
+
+Large
+
+![Join Us Large](documentation/testing/sj-fitness-responsiveness-join-us-large.jpg)
+
+Medium
+
+![Join Us Medium](documentation/testing/sj-fitness-responsiveness-join-us-medium.jpg)
+
+Small
+
+![Join Us Small](documentation/testing/sj-fitness-responsiveness-join-us-small.jpg)
 
 ## User Story Tests
 
