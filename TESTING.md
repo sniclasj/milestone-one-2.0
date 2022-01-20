@@ -95,7 +95,11 @@ The issue highlighted in the Lighthouse testing is due to the contrast of text c
 
 ## Responsiveness
 
+INPUT SCREENSHOTS OF RESPONSIVENESS
+
 ## User Story Tests
+
+DO THIS ONCE DISCUSSED WITH TIM
 
 ## Unfixed Bugs
 
