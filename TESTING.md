@@ -99,7 +99,19 @@ INPUT SCREENSHOTS OF RESPONSIVENESS
 
 ## User Story Tests
 
-DO THIS ONCE DISCUSSED WITH TIM
+- As a user, I want to be able to click links in the navbar, so that I can view different pages on the site.
+![Navbar](documentation/testing/sj-fitness-navbar.jpg)
+- As a user, I want to be able to see social media icons, so that I can follow the business on their social platforms.
+![Social Media Icons in Footer](documentation/testing/sj-fitness-footer.jpg)
+- As a user, I want to see a summary of products, so that I can better understand the most suitable option.
+![Pricing Options](documentation/testing/sj-fitness-pricing-tiers.jpg)
+- As a user, I want to be able to contact the company, so that I can ask further questions or provide information.
+![Email for Contact in Footer](documentation/testing/sj-fitness-footer.jpg)
+![Contact Form](documentation/testing/sj-fitness-join-us-form.jpg)
+- As a user, I want to be able to view the site on any device, so that I can see it on my phone, tablet, or desktop.
+![Responsive Mock Up](documentation/testing/sj-fitness-responsive-mock-up.jpg)
+- As a user, I want to be able to see where the company is located, so that I can see how easy it is for me to get there.
+![Map on Home Page](documentation/testing/sj-fitness-chrome-desktop-a.jpg)
 
 ## Unfixed Bugs
 
