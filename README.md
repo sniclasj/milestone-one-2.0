@@ -9,8 +9,9 @@ SJ Fitness is a website for a personal trainer owned gym located in West Wales. 
 - As a user, I want to be able to click links in the navbar, so that I can view different pages on the site.
 - As a user, I want to be able to see social media icons, so that I can follow the business on their social platforms.
 - As a user, I want to see a summary of products, so that I can better understand the most suitable option.
-- As a user, I want to be able to contact the company, so that I can voice my opinion.
+- As a user, I want to be able to contact the company, so that I can ask further questions or provide information.
 - As a user, I want to be able to view the site on any device, so that I can see it on my phone, tablet, or desktop.
+![Social Media Icons in Footer](documentation/testing/sj-fitness-footer.jpg)
 - As a user, I want to be able to see where the company is located, so that I can see how easy it is for me to get there.
 
 ## UX
