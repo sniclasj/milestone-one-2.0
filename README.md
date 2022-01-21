@@ -143,16 +143,16 @@ A future feature to implement would be the embedding of fitness related videos w
 
 ## Technologies Used
 
-- Git - used for version control - 
-- GitHub - used to secure my code online - 
-- Gitpod - used as the cloud-based IDE - 
-- GitHub Pages - used to deploy the site - 
-- amiresponsive - used for the mockup image - 
-- HTML - used to write the code for the website - 
-- CSS - used to style the website - 
-- Bootstrap - used to create a grid structure for the website - 
-- Font Awesome - used to add icons to the website - 
-- CSS Root Variables - used to represent colours in style.css - 
+- [Git](https://www.atlassian.com/git) - used for version control.
+- [GitHub](https://github.com/) - used to secure my code online.
+- [Gitpod](https://www.gitpod.io/) - used as the cloud-based IDE. 
+- [GitHub Pages](https://github.com/sniclasj/sj-fitness/deployments/activity_log?environment=github-pages) - used to deploy the site.
+- [amiresponsive](http://ami.responsivedesign.is/#) - used for the mockup image.
+- [HTML](https://en.wikipedia.org/wiki/HTML) - used to write the code for the website.
+- [CSS](https://en.wikipedia.org/wiki/CSS) - used to style the website.
+- [Bootstrap](https://getbootstrap.com/docs/4.4/getting-started/download/#bootstrapcdn) - used to create a grid structure for the website.
+- [Font Awesome](https://fontawesome.com/) - used to add icons to the website.
+- [CSS Root Variables](https://developer.mozilla.org/en-US/docs/Web/CSS/Using_CSS_custom_properties) - used to represent colours in style.css.
 
 ## Testing
 
