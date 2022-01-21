@@ -11,7 +11,6 @@ SJ Fitness is a website for a personal trainer owned gym located in West Wales. 
 - As a user, I want to see a summary of products, so that I can better understand the most suitable option.
 - As a user, I want to be able to contact the company, so that I can ask further questions or provide information.
 - As a user, I want to be able to view the site on any device, so that I can see it on my phone, tablet, or desktop.
-![Social Media Icons in Footer](documentation/testing/sj-fitness-footer.jpg)
 - As a user, I want to be able to see where the company is located, so that I can see how easy it is for me to get there.
 
 ## UX
@@ -139,7 +138,7 @@ A future feature to implement would be the embedding of fitness related videos w
 ## Technologies Used
 
 - Git - used for version control
-- GitHub - used to secure your code online
+- GitHub - used to secure my code online
 - Gitpod - used as the cloud-based IDE
 - GitHub Pages - used to deploy the site
 - amiresponsive - used for the mockup image
@@ -175,7 +174,9 @@ Alternatively, if using Gitpod, you can click below to create your own workspace
 
 ### Content 
 
-In order to create a placeholder for my dropdown list on the Join Us page, I utilised and modified code taken from [Stack Overflow](https://stackoverflow.com/questions/5805059/how-do-i-make-a-placeholder-for-a-select-box).
+In order to create a placeholder for my dropdown list on the Join Us page, I utilised and modified the following code taken from [Stack Overflow](https://stackoverflow.com/questions/5805059/how-do-i-make-a-placeholder-for-a-select-box).
+
+In order to ensure the footer remains 'stuck' to the bottom of all pages, I utilised the following code taken from [CSS Tricks](https://css-tricks.com/a-clever-sticky-footer-technique/).
 
 ### Media
 
