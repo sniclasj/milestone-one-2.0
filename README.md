@@ -69,6 +69,12 @@ __Medium Screen and Below Wireframe__
 
 ### Existing Features
 
+__Favicon__
+
+This image features on the browser tab for all pages.
+
+![Favicon](documentation/testing/sj-fitness-favicon.png)
+
 __Navigation Bar__
 
 This features on all pages and includes links to the gym's branding, Home page, Pricing page and Join Us page. The navigation bar is fully responsive and  is the same on each page to facilitate easy navigation.
