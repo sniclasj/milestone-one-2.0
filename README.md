@@ -137,15 +137,16 @@ A future feature to implement would be the embedding of fitness related videos w
 
 ## Technologies Used
 
-- Git - used for version control
-- GitHub - used to secure my code online
-- Gitpod - used as the cloud-based IDE
-- GitHub Pages - used to deploy the site
-- amiresponsive - used for the mockup image
-- HTML - used to write the code for the website
-- CSS - used to style the website
-- Bootstrap - used to create a grid structure for the website
-- Font Awesome - used to add icons to the website
+- Git - used for version control - 
+- GitHub - used to secure my code online - 
+- Gitpod - used as the cloud-based IDE - 
+- GitHub Pages - used to deploy the site - 
+- amiresponsive - used for the mockup image - 
+- HTML - used to write the code for the website - 
+- CSS - used to style the website - 
+- Bootstrap - used to create a grid structure for the website - 
+- Font Awesome - used to add icons to the website - 
+- CSS Root Variables - used to represent colours in style.css - 
 
 ## Testing
 
