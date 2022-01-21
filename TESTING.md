@@ -157,4 +157,4 @@ Small
 
 The only issue that I am aware of is the contrast issue on the pricing.html page. In order to completely address this, I could modify the colour theme of the website to increase the contrast ratio. To partially rectify this issue, I have added text shadowing to the text style so that the text is more visible/readable.
 
-I have since learned how to replace colours with root variables in the style.css file. This means that I could now easily update the colour scheme of the entire website in order to rectify the contrast ratio issue noted above. I have kept my original colour scheme for the site in this instance however it is a useful learning for future projects.
+I have since learned how to replace colours with root variables in the style.css file. This means that I could now easily update the colour scheme of the entire website in order to rectify the contrast ratio issue noted above. I have kept my original colour scheme for the site in this instance however, it is a useful learning for future projects.
